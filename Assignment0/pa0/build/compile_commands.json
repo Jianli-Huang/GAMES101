@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/ComputerGraphics_Homework/Assignment0/pa0/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Transformation.dir/includes_CXX.rsp -g -o CMakeFiles\\Transformation.dir\\main.cpp.obj -c D:\\ComputerGraphics_Homework\\Assignment0\\pa0\\main.cpp",
+  "file": "D:/ComputerGraphics_Homework/Assignment0/pa0/main.cpp"
+}
+]
