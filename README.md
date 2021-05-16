@@ -4,7 +4,7 @@
 
 ##### 1.正常显示三角形
 
-![正常显示三角形](C:\Users\Jianli\Desktop\GAMES101\Assignment1\My_Effect_Picture\正常显示三角形.png)
+![正常显示三角形](Assignment1/My_Effect_Picture/正常显示三角形.png)
 
 ##### 2.逆时针旋转45度
 
