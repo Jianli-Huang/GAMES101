@@ -26,7 +26,7 @@
 
 ##### 3.有SSAA
 
-![有SSAA](Assignment2 - SSAA/My_Effect_Picture/有SSAA.png)
+![有SSAA](Assignment2-SSAA/My_Effect_Picture/有SSAA.png)
 
 ### ***作业3效果图***
 
