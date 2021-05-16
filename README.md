@@ -18,7 +18,7 @@
 
 ##### 1.无抗锯齿
 
-![无抗锯齿](Assignment2/My_Effect_Picture/无MSAA.png)
+![无抗锯齿](Assignment2/My_Effect_Picture/无抗锯齿.png)
 
 ##### 2.有MSAA
 
@@ -26,7 +26,7 @@
 
 ##### 3.有SSAA
 
-![有SSAA](Assignment2-SSAA/My_Effect_Picture/有SSAA.png)
+![有SSAA](Assignment2/My_Effect_Picture/有SSAA.png)
 
 ### ***作业3效果图***
 
