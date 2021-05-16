@@ -12,13 +12,13 @@
 
 ##### 3.逆时针旋转90度
 
-![逆时针旋转90度](Assignment1/My_Effect_Picture/逆时针旋转90度.png.png)
+![逆时针旋转90度](Assignment1/My_Effect_Picture/逆时针旋转90度.png)
 
 ### ***作业2效果图***
 
 ##### 1.无抗锯齿
 
-![无抗锯齿](Assignment2 - SSAA/My_Effect_Picture/无抗锯齿.png.png)
+![无抗锯齿](Assignment2 - SSAA/My_Effect_Picture/无抗锯齿.png)
 
 ##### 2.有MSAA
 
